@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 90%;
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    background-color: rgb(37, 38, 43);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: left bottom;
+    text-align: justify;
+    background-image: url(../src/assets/Img/fondo.jpg);
+}

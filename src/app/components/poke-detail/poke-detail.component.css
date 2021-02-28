@@ -1,0 +1,31 @@
+.card {
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #d23e34;
+}
+
+.header-image {
+    background-size: cover;
+}
+
+.mat-card-header {
+    background-color: rgb(255, 255, 255);
+    padding-top: 10px;
+    border-radius: 10px;
+}
+
+.mat-card-title {
+    text-transform: uppercase;
+    color: black;
+}
+
+.mat-card-subtitle {
+    color: black;
+}
+
+.mat-chip {
+    background-color: rgb(70, 61, 61) !important;
+    align-items: center;
+    justify-content: center;
+}
